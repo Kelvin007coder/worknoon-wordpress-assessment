@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://worknoon.com/#organization",
+  "name": "Worknoon",
+  "url": "https://worknoon.com",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://worknoon.com/wp-content/uploads/worknoon-logo.png",
+    "width": 300,
+    "height": 60
+  },
+  "description": "Worknoon is a platform connecting businesses with top-tier remote professionals and freelancers across multiple disciplines.",
+  "foundingDate": "2023",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "Customer Support",
+    "email": "careers@worknoon.com",
+    "availableLanguage": "English"
+  },
+  "sameAs": [
+    "https://twitter.com/worknoon",
+    "https://linkedin.com/company/worknoon",
+    "https://facebook.com/worknoon",
+    "https://instagram.com/worknoon",
+    "https://www.crunchbase.com/organization/worknoon"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "NG"
+  }
+}
